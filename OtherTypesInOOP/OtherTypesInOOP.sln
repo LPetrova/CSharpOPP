@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.GalacticGPS", "GalacticGPS\01.GalacticGPS.csproj", "{B883ED08-48AC-4F86-9552-C186A30FF5E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.FractionCalculator", "FractionCalculator\02.FractionCalculator.csproj", "{F88778BC-4E38-4E71-B72F-72328AF658D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_04.GenericList", "GenericList\03_04.GenericList.csproj", "{D95A6247-4C6F-49F4-80E2-55E32B0F5975}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B883ED08-48AC-4F86-9552-C186A30FF5E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B883ED08-48AC-4F86-9552-C186A30FF5E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B883ED08-48AC-4F86-9552-C186A30FF5E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B883ED08-48AC-4F86-9552-C186A30FF5E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F88778BC-4E38-4E71-B72F-72328AF658D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F88778BC-4E38-4E71-B72F-72328AF658D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F88778BC-4E38-4E71-B72F-72328AF658D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F88778BC-4E38-4E71-B72F-72328AF658D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D95A6247-4C6F-49F4-80E2-55E32B0F5975}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D95A6247-4C6F-49F4-80E2-55E32B0F5975}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D95A6247-4C6F-49F4-80E2-55E32B0F5975}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D95A6247-4C6F-49F4-80E2-55E32B0F5975}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
